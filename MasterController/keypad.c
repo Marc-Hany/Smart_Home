@@ -1,9 +1,4 @@
-/*
- * keypad.c
- *
- *  Created on: Sep 4, 2019
- *      Author: Joseph Hanna
- */
+
 
 
 #include "keypad.h"
