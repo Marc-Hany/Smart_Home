@@ -1,9 +1,4 @@
-/*
- * SPI.h
- *
- *  Created on: Sep 13, 2019
- *      Author: Joseph Hanna
- */
+
 
 #ifndef SPI_H_
 #define SPI_H_
