@@ -134,7 +134,7 @@ int main() {
 				start=1;
 			}
 			user_pass[user_no-1]/=10;// if the password is 1234 the use_pass will be equal to 12340 after the for loop so we divide it by 10
-			save_user(1, user_id, user_pass);;
+			//save_user(1, user_id, user_pass);;
 			}
 			else if(user_id[user_no-1]==user_no  )
 			{
